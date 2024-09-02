@@ -4,7 +4,8 @@
 Ovaj projekat predstavlja simulaciju bolničkog sistema kroz kreiranje i analizu baze podataka koristeći SQLite i Python. Baza podataka uključuje ključne entitete kao što su odeljenja, doktori, pacijenti, tretmani, pregledi i recepti, omogućavajući raznovrsne statističke analize i vizualizaciju podataka.
 
 ## Trenutni Status
-###Projekat je još uvek u izradi###. Aktivno se razvija, dopunjuje i poboljšava. Očekuju se dalji dodaci i promene u funkcionalnostima, strukturi podataka i analizama. Cilj je da projekat postane sveobuhvatno rešenje za simulaciju bolničkog sistema i omogućavanje naprednih statističkih uvida.
+### Projekat je još uvek u izradi ###. 
+Aktivno se razvija, dopunjuje i poboljšava. Očekuju se dalji dodaci i promene u funkcionalnostima, strukturi podataka i analizama. Cilj je da projekat postane sveobuhvatno rešenje za simulaciju bolničkog sistema i omogućavanje naprednih statističkih uvida.
 
 ## Sadržaj
 SQL skripte: Kreiranje i popunjavanje baze podataka.  
